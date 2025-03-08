@@ -9,4 +9,4 @@ This is a very common project, so there are similar projects to this. This was d
  - Text Representation Methods: Explored multiple embedding techniques including TF-IDF, Word2Vec (Skip-gram), GloVe, and RoBERTa contextual embeddings
  - Language Detection: Integrated language identification functionality to support multi-language text analysis
  - Text Normalization: Applied stemming and lemmatization with comparative analysis of different algorithms
- - Document Vectorization: Created sentence-level embeddings through various aggregation techniques
+
